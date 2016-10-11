@@ -1,0 +1,42 @@
+body {
+  background: #eaedc1;
+  margin: 0 10% 0 10%;
+}
+
+h1 {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  box-shadow: 8px 8px 10px #949494;
+  background: #2493b3;
+  color: #e8e8e8;
+  padding: 5px;
+  text-align: center;
+}
+
+h2 {
+  margin-left: 45px;
+}
+
+section {
+  padding: 5px 0 5px 25px;
+  margin: 15px 0px 15px 0;
+  border-top-left-radius: 45px;
+  border-bottom-left-radius: 45px;
+}
+
+p {
+  font-size: 1.3em;
+  margin-left: 75px;
+}
+
+#need {
+  box-shadow: 8px 8px 10px #ad9393;
+  background: #d85320;
+  color: #e8e8e8;
+}
+
+#answer {
+  box-shadow: 8px 8px 10px #848484;
+  background: #3fa03e;
+  color: #e8e8e8;
+}
