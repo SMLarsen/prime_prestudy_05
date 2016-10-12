@@ -29,6 +29,19 @@ p {
   margin-left: 75px;
 }
 
+#desc {
+  display: inline-block;
+  width: 20%;
+  vertical-align: top;
+}
+
+pre {
+  display: inline-block;
+  width: 40%;
+  font-size: 1.3em;
+  vertical-align: top;
+}
+
 #need {
   box-shadow: 8px 8px 10px #ad9393;
   background: #d85320;
